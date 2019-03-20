@@ -1,0 +1,96 @@
+{
+   "destination_addresses" : [ "Lahore, Pakistan" ],
+   "origin_addresses" : [ "Aabpara, Islamabad, Pakistan" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "235 mi",
+                  "value" : 378595
+               },
+               "duration" : {
+                  "text" : "4 hours 21 mins",
+                  "value" : 15646
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+{
+   "destination_addresses" : [ "Lahore, Pakistan" ],
+   "origin_addresses" : [
+      "Allama Iqbal International Airport, Airport Road, Lahore 54000, Pakistan"
+   ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10287
+               },
+               "duration" : {
+                  "text" : "24 mins",
+                  "value" : 1440
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+{
+   "destination_addresses" : [ "Lahore, Pakistan" ],
+   "origin_addresses" : [ "Clifton, Karachi, Pakistan" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "773 mi",
+                  "value" : 1244197
+               },
+               "duration" : {
+                  "text" : "18 hours 44 mins",
+                  "value" : 67446
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+Order = 4 *** The Selected Godown is *** = 2
+Location is " Airport Lahore PK" The Distance from the Godown is = 10.287
+* Order Item Number: 1 *
+Before Deduction = Item: Register Quantity:71920	
+To Be Deducted Quantity = 50
+After Deduction = Item: Register Quantity:71870	
+* Order Item Number: 2 *
+Before Deduction = Item: Play Station Quantity:49726	
+To Be Deducted Quantity = 9
+After Deduction = Item: Play Station Quantity:49717	
+* Order Item Number: 3 *
+Before Deduction = Item: Bed Quantity:53382	
+To Be Deducted Quantity = 3
+After Deduction = Item: Bed Quantity:53379	
+* Order Item Number: 4 *
+Before Deduction = Item: Computers Quantity:64740	
+To Be Deducted Quantity = 10
+After Deduction = Item: Computers Quantity:64730	
+* Order Item Number: 5 *
+Before Deduction = Item: Laptops Quantity:47972	
+To Be Deducted Quantity = 10
+After Deduction = Item: Laptops Quantity:47962	
+Processing Data and Time: 2017/06/05 10:04:48
+
+
+
+
+ //

@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [ "Phase 5 D.H.A, Lahore, Pakistan" ],
+   "origin_addresses" : [ "Aabpara, Islamabad, Pakistan" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "246 mi",
+                  "value" : 395599
+               },
+               "duration" : {
+                  "text" : "4 hours 33 mins",
+                  "value" : 16397
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+{
+   "destination_addresses" : [ "Phase 5 D.H.A, Lahore, Pakistan" ],
+   "origin_addresses" : [
+      "Allama Iqbal International Airport, Airport Road, Lahore 54000, Pakistan"
+   ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10302
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 793
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+{
+   "destination_addresses" : [ "Phase 5 D.H.A, Lahore, Pakistan" ],
+   "origin_addresses" : [ "Clifton, Karachi, Pakistan" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "777 mi",
+                  "value" : 1250089
+               },
+               "duration" : {
+                  "text" : "19 hours 3 mins",
+                  "value" : 68602
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+Order = 7 *** The Selected Godown is *** = 2
+Location is " Airport Lahore PK" The Distance from the Godown is = 10.302
+* Order Item Number: 1 *
+Before Deduction = Item: Register Quantity:71820	
+To Be Deducted Quantity = 70
+After Deduction = Item: Register Quantity:71750	
+* Order Item Number: 2 *
+Before Deduction = Item: Laptops Quantity:47952	
+To Be Deducted Quantity = 20
+After Deduction = Item: Laptops Quantity:47932	
+Processing Data and Time: 2017/06/05 10:04:48
+
+
+
+
+ //

@@ -1,0 +1,92 @@
+{
+   "destination_addresses" : [ "St 55, F-8-4, F-8, Islamabad, ICT, Pakistan" ],
+   "origin_addresses" : [ "Aabpara, Islamabad, Pakistan" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6671
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 631
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+{
+   "destination_addresses" : [ "St 55, F-8-4, F-8, Islamabad, ICT, Pakistan" ],
+   "origin_addresses" : [
+      "Allama Iqbal International Airport, Airport Road, Lahore 54000, Pakistan"
+   ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "248 mi",
+                  "value" : 399080
+               },
+               "duration" : {
+                  "text" : "4 hours 26 mins",
+                  "value" : 15946
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+{
+   "destination_addresses" : [ "St 55, F-8-4, F-8, Islamabad, ICT, Pakistan" ],
+   "origin_addresses" : [ "Clifton, Karachi, Pakistan" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "937 mi",
+                  "value" : 1507348
+               },
+               "duration" : {
+                  "text" : "20 hours 37 mins",
+                  "value" : 74215
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+Order = 15 *** The Selected Godown is *** = 1
+Location is " Aabpara Islamabad PK" The Distance from the Godown is = 6.671
+* Order Item Number: 1 *
+Before Deduction = Item: Bed Quantity:53171	
+To Be Deducted Quantity = 10
+After Deduction = Item: Bed Quantity:53161	
+* Order Item Number: 2 *
+Before Deduction = Item: Register Quantity:69650	
+To Be Deducted Quantity = 15
+After Deduction = Item: Register Quantity:69635	
+* Order Item Number: 3 *
+Before Deduction = Item: Play Station Quantity:49413	
+To Be Deducted Quantity = 10
+After Deduction = Item: Play Station Quantity:49403	
+* Order Item Number: 4 *
+Before Deduction = Item: Laptops Quantity:48188	
+To Be Deducted Quantity = 2
+After Deduction = Item: Laptops Quantity:48186	
+Processing Data and Time: 2017/06/05 10:04:48
+
+
+
+
+ //

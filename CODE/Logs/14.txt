@@ -1,0 +1,90 @@
+{
+   "destination_addresses" : [
+      "Technocrats Institute (Cantt) Bazar Saddar Rd, Peshawar, Saddar (Cantt) Bazar Saddar Technocrats Institute, Saddar Rd, Peshawar, Pakistan"
+   ],
+   "origin_addresses" : [ "Aabpara, Islamabad, Pakistan" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "116 mi",
+                  "value" : 186728
+               },
+               "duration" : {
+                  "text" : "2 hours 19 mins",
+                  "value" : 8347
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+{
+   "destination_addresses" : [
+      "Technocrats Institute (Cantt) Bazar Saddar Rd, Peshawar, Saddar (Cantt) Bazar Saddar Technocrats Institute, Saddar Rd, Peshawar, Pakistan"
+   ],
+   "origin_addresses" : [
+      "Allama Iqbal International Airport, Airport Road, Lahore 54000, Pakistan"
+   ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "332 mi",
+                  "value" : 534542
+               },
+               "duration" : {
+                  "text" : "5 hours 49 mins",
+                  "value" : 20912
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+{
+   "destination_addresses" : [
+      "Technocrats Institute (Cantt) Bazar Saddar Rd, Peshawar, Saddar (Cantt) Bazar Saddar Technocrats Institute, Saddar Rd, Peshawar, Pakistan"
+   ],
+   "origin_addresses" : [ "Clifton, Karachi, Pakistan" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "857 mi",
+                  "value" : 1379470
+               },
+               "duration" : {
+                  "text" : "20 hours 26 mins",
+                  "value" : 73587
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+Order = 14 *** The Selected Godown is *** = 1
+Location is " Aabpara Islamabad PK" The Distance from the Godown is = 186.728
+* Order Item Number: 1 *
+Before Deduction = Item: Register Quantity:69660	
+To Be Deducted Quantity = 10
+After Deduction = Item: Register Quantity:69650	
+* Order Item Number: 2 *
+Before Deduction = Item: Laptops Quantity:48208	
+To Be Deducted Quantity = 20
+After Deduction = Item: Laptops Quantity:48188	
+Processing Data and Time: 2017/06/05 10:04:48
+
+
+
+
+ //

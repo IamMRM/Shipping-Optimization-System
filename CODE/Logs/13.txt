@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [ "Green Avenue, Chatta Bakhtawar, Pakistan" ],
+   "origin_addresses" : [ "Aabpara, Islamabad, Pakistan" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 9991
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 987
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+{
+   "destination_addresses" : [ "Green Avenue, Chatta Bakhtawar, Pakistan" ],
+   "origin_addresses" : [
+      "Allama Iqbal International Airport, Airport Road, Lahore 54000, Pakistan"
+   ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "254 mi",
+                  "value" : 408915
+               },
+               "duration" : {
+                  "text" : "4 hours 37 mins",
+                  "value" : 16635
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+{
+   "destination_addresses" : [ "Green Avenue, Chatta Bakhtawar, Pakistan" ],
+   "origin_addresses" : [ "Clifton, Karachi, Pakistan" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "943 mi",
+                  "value" : 1517182
+               },
+               "duration" : {
+                  "text" : "20 hours 48 mins",
+                  "value" : 74903
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+Order = 13 *** The Selected Godown is *** = 1
+Location is " Aabpara Islamabad PK" The Distance from the Godown is = 9.991
+* Order Item Number: 1 *
+Before Deduction = Item: Register Quantity:69670	
+To Be Deducted Quantity = 10
+After Deduction = Item: Register Quantity:69660	
+* Order Item Number: 2 *
+Before Deduction = Item: Laptops Quantity:48210	
+To Be Deducted Quantity = 2
+After Deduction = Item: Laptops Quantity:48208	
+Processing Data and Time: 2017/06/05 10:04:48
+
+
+
+
+ //
